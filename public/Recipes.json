@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_id": "1",
+        "recipe_name": "Spicy Garlic Chicken",
+        "short_description": "A fiery dish of tender chicken infused with garlic and spices.",
+        "ingredients": [
+            "500 g chicken",
+            "4 cloves garlic",
+            "2 tbsp chili paste",
+            "200 g bell peppers",
+            "100 g onion"
+        ],
+        "preparing_time": "25 min",
+        "calories": "450 calories",
+        "image": "https://i.ibb.co.com/WvkxKjn/18813.jpg"
+    },
+    {
+        "recipe_id": "2",
+        "recipe_name": "Creamy Mushroom Pasta",
+        "short_description": "Delicious pasta tossed in a rich and creamy mushroom sauce.",
+        "ingredients": [
+            "250 g pasta",
+            "300 g mushroom",
+            "200 ml cream",
+            "50 g parmesan cheese",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "600 calories",
+        "image": "https://i.ibb.co.com/f0CXdYH/1063.jpg"
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Vegetable Stir-fry",
+        "short_description": "A colorful mix of fresh vegetables stir-fried in a savory sauce.",
+        "ingredients": [
+            "150 g broccoli",
+            "100 g carrots",
+            "100 g snap peas",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "200 calories",
+        "image": "https://i.ibb.co.com/dLG0dD4/2149141353.jpg"
+    },
+    {
+        "recipe_id": "4",
+        "recipe_name": "Taco Salad",
+        "short_description": "A fresh and zesty salad with all the flavors of a taco.",
+        "ingredients": [
+            "150 g lettuce",
+            "200 g ground beef",
+            "100 g cherry tomatoes",
+            "50 g cheddar cheese",
+            "2 tbsp taco sauce"
+        ],
+        "preparing_time": "15 min",
+        "calories": "350 calories",
+        "image": "https://i.ibb.co.com/JBBcWtQ/58481.jpg"
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Soft and chewy cookies loaded with chocolate chips.",
+        "ingredients": [
+            "200 g flour",
+            "100 g sugar",
+            "100 g brown sugar",
+            "150 g chocolate chips",
+            "1 egg"
+        ],
+        "preparing_time": "40 min",
+        "calories": "150 calories per cookie",
+        "image": "https://i.ibb.co.com/zbYTbGL/10787.jpg"
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Quinoa Salad",
+        "short_description": "A healthy and refreshing salad packed with quinoa and veggies.",
+        "ingredients": [
+            "200 g quinoa",
+            "100 g cucumber",
+            "100 g bell pepper",
+            "50 g feta cheese",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "image": "https://i.ibb.co.com/C1LmPmf/2150857744.jpg"
+    }
+]
